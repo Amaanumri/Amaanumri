@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Amaanumri
-- 👀 I’m interested in Java ...
-- 🌱 I’m currently learning Java...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Amaanumri/Amaanumri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Public class Hello World{
+public static viod main(String agrs[]){
+int a = 10;
+int b = 20;
+System.out.println(a+b);
+}
+    }
